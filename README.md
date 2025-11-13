@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**niskb/niskb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Brian Niski's GitHub Profile
 
-Here are some ideas to get you started:
+Welcome to my personal portfolio website! This site showcases my projects, technical skills, and achievements in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I'm a full-stack developer with experience in Java, TypeScript, React, Next.js, and more. Explore my projects to see my work in action!
+
+## Links
+- [Portfolio Website](https://niskb.github.io)
+- [GitHub](https://github.com/niskb)
+- [LinkedIn](https://www.linkedin.com/in/niski)
+- Email: niskibrian@hotmail.com
